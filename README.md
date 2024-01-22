@@ -1,4 +1,4 @@
-# Brandon W. Kipp
+# Saidaminkhon Alyavi
 
 _Full Stack Developer & Audio Engineer based in Wisconsin, USA_
 
