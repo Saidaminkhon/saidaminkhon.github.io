@@ -1,8 +1,8 @@
 # Saidaminkhon Alyavi
 
-_Full Stack Developer & Audio Engineer based in Wisconsin, USA_
+_Project Leader and Business Analyst based in Berlin DE_
 
-[Email](mailto:brandonwkipp@gmail.com) / [Website](https://brandonwkipp.com/) / [LinkedIn](https://www.linkedin.com/in/brandonwkipp/) / [Github](https://github.com/brandonwkipp/)
+[Email](mailto:saidaminkhon.alyavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brandonwkipp/) / [Github](https://github.com/brandonwkipp/)
 ___
 ## <span role="image">&#128104;&#8205;&#128187;</span> Technical Experience
 **Senior Software Engineer** @ [Rakuten Advertising](https://rakutenadvertising.com/) _(Mar 2022-Present)_<br/>
