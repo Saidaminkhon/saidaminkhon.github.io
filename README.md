@@ -2,7 +2,7 @@
 
 _Project Leader and Business Analyst based in Berlin DE_
 
-[Email](mailto:saidaminkhon.alyavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/brandonwkipp/) / [Github](https://github.com/brandonwkipp/)
+[Email](mailto:saidaminkhon.alyavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/saidaminkhonalyavi/) / [Github](https://saidaminkhon.github.io/)
 ___
 ## <span role="image">&#128104;&#8205;&#128187;</span> Technical Experience
 **Senior Software Engineer** @ [Rakuten Advertising](https://rakutenadvertising.com/) _(Mar 2022-Present)_<br/>
