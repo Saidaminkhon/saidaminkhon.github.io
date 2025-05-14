@@ -1,12 +1,12 @@
 # Saidaminkhon Alyavi
 
-_Project Leader and Business Analyst based in Berlin DE_
+_Project Leader/Business Analyst/Product Expert based in Berlin DE_
 
 [Email](mailto:saidaminkhon.alyavi@gmail.com) / [LinkedIn](https://www.linkedin.com/in/saidaminkhonalyavi/) / [Github](https://saidaminkhon.github.io/)
 ___
-## <span role="image">&#128104;&#8205;&#128187;</span> Technical Experience
-**Senior Software Engineer** @ [Rakuten Advertising](https://rakutenadvertising.com/) _(Mar 2022-Present)_<br/>
-One Powerful Ecosystem. Infinite Possibilities.
+## <span role="image">&#128104;&#8205;&#128187;</span> Functional Experience
+**Senior PM, Expansion, Reporting** @ [Amazon South Africa](amazon.co.za) _(Mar 2024-Jul 2024)_<br/>
+Based in Cape Town, South Africa
 
 **_Technologies used:_** React, Golang, TypeScript, Node.js, Postman
 ___
