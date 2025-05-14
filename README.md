@@ -6,17 +6,17 @@ _Project Leader/Business Analyst/Product Expert based in Berlin DE_
 ___
 ## <span role="image">&#128104;&#8205;&#128187;</span> Functional Experience
 **Senior PM, Expansion, Reporting** @ [Amazon South Africa](amazon.co.za) _(Mar 2024-Jul 2024)_<br/>
-Based in Cape Town, South Africa
+Assignment based in Cape Town, South Africa
 
-**_Technologies used:_** React, Golang, TypeScript, Node.js, Postman
+**_Expertise used:_** Team Leadership, Product Development, Project Management, Business Analytics
 ___
-**Full Stack Developer** @ [Sierra Interactive](https://sierrainteractive.com/) _(Aug 2021-Mar 2022)_<br/>
+**Senior PM/Consultant** @ [Sierra Interactive](https://sierrainteractive.com/) _(Sept 2021-Present)_<br/>
 The most powerful, end-to-end real estate platform available.
   - Conversion of JavaScript/jQuery/ASPX pages into modernized React components with TypeScript
   - Third-party API (Google Ads, Structurely) integration development for the admin portal website
   - Documentation of developer onboarding, stack overview, and development standards
 
-**_Technologies used:_** React, TypeScript, Node.js, Postman, C#, .NET, Microsoft SQL Server
+**_Expertise Used:_** SQL, Python, PowerBI, Leadership, PM, Analytics, Stakeholder Management
 ___
 **Full Stack Developer** @ [Science Museum of Minnesota](https://smm.org/) _(Mar 2019-Aug 2021)_<br/>
 A place for everyone to turn on the science, inspire learning, inform policy, and improve lives.
